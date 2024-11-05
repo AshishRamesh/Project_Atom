@@ -3,7 +3,6 @@ import mediapipe as mp
 import numpy as np
 import requests
 
-# ESP8266 server IP address and port
 ESP8266_IP = '192.168.87.128'  # Adjust to match your ESP8266's IP address
 ESP8266_PORT = '8080'
 
